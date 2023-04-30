@@ -52,3 +52,12 @@ p {
   top: 1em;
   right: 1em;
 }
+
+header {
+  background-color: #ffffff;
+  padding: 10px;
+  width: 100%;
+  position: relative;
+  top: 0;
+  margin: 15px;
+}
