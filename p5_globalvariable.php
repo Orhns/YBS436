@@ -13,7 +13,8 @@
     <?php
     $count=22;
     function testScope1(){
-        echo $count; //cannot reach the count value
+       // echo $count; //cannot reach the count value because 
+       //its not global or passed into the function.
     }
     testScope1();
     echo "<p>" . $count . "</p>"; //output 22
