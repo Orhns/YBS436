@@ -5,11 +5,11 @@
     <br><br>
     <p>Please Select the days of the week based on your course schedule: </p>
     <br>
-    Monday <input type="checkbox" name="day" value="Monday">
-    Tuesday <input type="checkbox" name="day" value="Tuesday">
-    Wednesday <input type="checkbox" name="day" value="Wednesday">
-    Thursday <input type="checkbox" name="day" value="Thursday">
-    Friday <input type="checkbox" name="day" value="Friday">
+    Monday <input type="checkbox" name="day[]" value="Monday">
+    Tuesday <input type="checkbox" name="day[]" value="Tuesday">
+    Wednesday <input type="checkbox" name="day[]" value="Wednesday">
+    Thursday <input type="checkbox" name="day[]" value="Thursday">
+    Friday <input type="checkbox" name="day[]" value="Friday">
     <input type="submit" value="submit">
 </form>
 <hr>   
