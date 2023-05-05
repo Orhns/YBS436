@@ -1,4 +1,4 @@
-<?php include 'includes/header.php' ?>
+<?php include 'p9_includes/header.php' ?>
 
 <?php 
 //To connect to the mysql database
@@ -16,4 +16,4 @@ if (!$connection) {
 }
 ?>
 
-<?php include 'includes/footer.php' ?>
+<?php include 'p9_includes/footer.php' ?>

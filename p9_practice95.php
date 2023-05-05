@@ -1,4 +1,4 @@
-<?php include 'includes/header.php' ?>
+<?php include 'p9_includes/header.php' ?>
 
 <?php 
 // Connecting to DB by PDO (OOP)
@@ -26,4 +26,4 @@ try {
 }
 ?>
 
-<?php include 'includes/footer.php' ?>
+<?php include 'p9_includes/footer.php' ?>

@@ -1,4 +1,4 @@
-<?php include 'includes/header.php' ?>
+<?php include 'p9_includes/header.php' ?>
 
 <?php
 // to connect database with PDO (Object Oriented)
@@ -15,4 +15,4 @@ try {
 }
 ?>
 
-<?php include 'includes/footer.php' ?>
+<?php include 'p9_includes/footer.php' ?>

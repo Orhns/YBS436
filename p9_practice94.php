@@ -1,4 +1,4 @@
-<?php include 'includes/header.php' ?>
+<?php include 'p9_includes/header.php' ?>
 
 <?php 
 // Connection to database with mysqli (procedural)
@@ -26,4 +26,4 @@ while ($row = mysqli_fetch_assoc($result)) {
 }
 ?>
 
-<?php include 'includes/footer.php' ?>
+<?php include 'p9_includes/footer.php' ?>
